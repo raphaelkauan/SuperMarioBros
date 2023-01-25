@@ -28,6 +28,4 @@ $ Start with LiveServer
 - Projeto simples, mas muito massa de se fazer, ansioso pela estreia do filme 🍄
 - Meu primeiro contato com o mundo dos games foi com o famoso jogo do Mario "Super Mario world"
 
-#
-
 <a href="#top">De volta ao topo</a>
